@@ -1,0 +1,4 @@
+{
+  "name": "Vega Web Security Scanner & Proxy",
+  "description": "Web security scanner and interception proxy platform for finding vulnerabilities like XSS, SQLi, sensitive disclosures, and testing HTTP endpoints."
+}
